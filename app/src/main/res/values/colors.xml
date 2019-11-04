@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorSwitch">#FDFEFE</color>
+    <color name="colorPrimary">#5499C7</color>
+    <color name="colorPrimaryDark">#1F618D </color>
+    <color name="colorAccent">#1F618D</color>
+    <color name="colorSuccessfully">#2ECC71</color>
+    <color name="colorFail">#E74C3C</color>
+
+
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="welcome">Welcome to Yirmibes Software</string>
+    <string name="remember">Remember me</string>
+    <string name="settingicon">settingicon</string>
+    <string name="ipadress">Ex:192.168.1.1:3000</string>
+    <string name="check">CHECK</string>
+    <string name="save">Check | Save</string>
+    <string name="connection_setting">Connection Setting</string>
+    <string name="cari_al_listesi">Cari Alış Listesi</string>
+    <string name="belge_numaras_n_giriniz">Belge Numarasını Giriniz</string>
+    <string name="tarih_se_iniz">Tarih Seçiniz</string>
+    <string name="setting">Setting</string>
+    <string name="seri_ekle">Seri Ekle</string>
+</resources>
